@@ -29,12 +29,6 @@ tests:
       imports:
         - venn
       python_version: ${{ python_min }}.*
-  - requirements:
-      run:
-        - pip
-        - python ${{ python_min }}.*
-    script:
-      - pip check
 
 about:
   summary: Venn diagrams for 2, 3, 4, 5, 6 sets

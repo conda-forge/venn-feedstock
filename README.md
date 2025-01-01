@@ -1,7 +1,7 @@
 About venn-feedstock
 ====================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/venn-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmpv63lb9kt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/venn/
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12878&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/venn-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmpv63lb9kt-feedstock?branchName=main">
       </a>
     </td>
   </tr>
